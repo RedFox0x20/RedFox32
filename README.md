@@ -1,10 +1,9 @@
-# Project name
-Project description
+# RedFox32 Complete Repository
+This is the complete project repository for the RedFox32 OS project.
 
-# Contents
-- [Some item](#Some-item)
-- [Another item](#Another-item)
+This project is made up of multiple semi-modular sections and as such I have decided to construct it using multiple git repositories.
 
-# Some item
-
-# Another item
+Other repositories in this project:
+- [RedFox32_Bootloader](https://github.com/RedFox0x20/RedFox32_Bootloader)
+- [RedFox32_Filesystem](https://github.com/RedFox0x20/RedFox32_Filesystem)
+- [RedFox32_Kernel](https://github.com/RedFox0x20/RedFox32_Kernel)
