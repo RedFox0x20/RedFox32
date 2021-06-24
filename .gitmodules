@@ -1,9 +1,9 @@
 [submodule "RedFox32_Bootloader"]
 	path = RedFox32_Bootloader
-	url = https://github.com/RedFox0x20/RedFox32_Bootloader
+	url = https://github.com/RedFox0x20/RedFox32_Bootloader.git
 [submodule "RedFox32_Filesystem"]
 	path = RedFox32_Filesystem
-	url = https://github.com/RedFox0x20/RedFox32_Filesystem
+	url = https://github.com/RedFox0x20/RedFox32_Filesystem.git
 [submodule "RedFox32_Kernel"]
 	path = RedFox32_Kernel
-	url = https://github.com/RedFox0x20/RedFox32_Kernel
+	url = https://github.com/RedFox0x20/RedFox32_Kernel.git
